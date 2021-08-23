@@ -1,0 +1,1 @@
+# segunda-forma-simples-de-envia-email-com-Django
